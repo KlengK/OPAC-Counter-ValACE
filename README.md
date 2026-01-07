@@ -1,5 +1,3 @@
-# OPAC-Counter-ValACE
-
 # ValACE Digital Portal: E-Resources Kiosk System
 
 ![Platform](https://img.shields.io/badge/Platform-Touchscreen_Kiosk-orange)
